@@ -1,0 +1,44 @@
+{
+  "customers": [
+    {
+      "id": "C001",
+      "name": "ABC Industries",
+      "balance": 250000,
+      "status": "Active",
+      "city": "Pune",
+      "email": "accounts@abcindustries.com"
+    },
+    {
+      "id": "C002",
+      "name": "XYZ Corporation",
+      "balance": 75000,
+      "status": "Active",
+      "city": "Mumbai",
+      "email": "finance@xyzcorp.com"
+    },
+    {
+      "id": "C003",
+      "name": "PQR Technologies",
+      "balance": 180000,
+      "status": "Active",
+      "city": "Bengaluru",
+      "email": "accounts@pqrtech.com"
+    },
+    {
+      "id": "C004",
+      "name": "MNO Enterprises",
+      "balance": 45000,
+      "status": "Inactive",
+      "city": "Nashik",
+      "email": "admin@mnoenterprises.com"
+    },
+    {
+      "id": "C005",
+      "name": "Sunrise Trading",
+      "balance": 325000,
+      "status": "Active",
+      "city": "Delhi",
+      "email": "finance@sunrisetrading.com"
+    }
+  ]
+}
